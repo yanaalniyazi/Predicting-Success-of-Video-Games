@@ -5,6 +5,6 @@ Me and my group created this project for our DS110 (Introduction to Data Science
 
 You can take a look at the Final Paper to understand our process which we explained step-by-step and the insights we were able to retrieve, as well as our presentation we made!
 
-Also make sure to visit the DS110FinalProjectCode.ipynb!
+Also make sure to visit the DS110 Final Code.ipynb!
 
 
